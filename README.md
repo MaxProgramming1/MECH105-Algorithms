@@ -1,4 +1,4 @@
-# MECH105-Algorithms
+# **MECH105-Algorithms**
 Algorithms created  using different numerical methods.
 ---
 ## **LU Factorization**
